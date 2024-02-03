@@ -1,7 +1,7 @@
 # CS-305-Software-Security
 
 # Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-The client was Artemis Financial, a consulting company that makes individualized financial plans for their customers. Artemis Financial has a RESTful web application programming interface and was seeking our help to identify any software vulnerabilities in their application. Additionally, they wanted 
+The client was Artemis Financial, a consulting company that makes individualized financial plans for their customers. Artemis Financial has a RESTful web application programming interface and was seeking our help to identify and remedy the software vulnerabilities in their application.
 
 # What did you do very well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 I think I did a good job of thoroughly addressing and describing the vulnerabilities I found. Secure coding is extremely important when developing software. By coding securely, we can reduce the amount of vulnerabilities in our system. This should be important to companies for many reasons. Software vulnerabilities can put our systems at risk of being damaged or leaking sensitive data. Either case could result in added expenses for the company to fix the system. Additionally, failing to comply with data privacy regulations could result in fines, lawsuits, and damage the trust of our customers.
